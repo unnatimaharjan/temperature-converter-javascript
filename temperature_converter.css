@@ -1,0 +1,29 @@
+body{
+    background-color:blueviolet;
+}
+
+.converter{
+    background-color: white;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-top: 200px;
+    padding: 50px;
+    border: 5px solid black;
+    border-radius: 25px;
+    font-size: 25px;
+}
+
+button{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.text-box{
+    width: 200px;
+    height: 20px;
+}
+
+.section{
+    margin-top: 30px;
+}
